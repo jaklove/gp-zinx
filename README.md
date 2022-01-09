@@ -1,2 +1,3 @@
 # gp-zinx
-tcp网络编程框架
+
+### 定义对应的Iconnection接口
